@@ -8,6 +8,7 @@ public class Test01 {
         System.out.println("***");
 
         System.out.println("I couldn't do that");
+        System.out.println("I did it :)))");
 
     }
 }
