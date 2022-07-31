@@ -1,4 +1,4 @@
-package featureVedatOne;
+package featureVedat;
 
 public class Test001_Vedat {
 
